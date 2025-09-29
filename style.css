@@ -1,21 +1,21 @@
 @font-face {
    font-family: catamaran;
-   src: url(Fonts/Catamaran-VariableFont_wght.ttf);
+   src: url(Catamaran-VariableFont_wght.ttf);
 }
 
 @font-face {
    font-family: fraunces;
-   src: url(../Fonts/Almendra-Regular.ttf);
+   src: url(Almendra-Regular.ttf);
 }
 
 @font-face {
    font-family: italiano;
-   src: url(../Fonts/Italianno-Regular.ttf);
+   src: url(Italianno-Regular.ttf);
 }
 
 @font-face {
    font-family: fredoka;
-   src: url(../Fonts/Fredoka-VariableFont_wdth,wght.ttf);
+   src: url(Fredoka-VariableFont_wdth,wght.ttf);
 }
 
 * {
@@ -214,5 +214,6 @@
       margin: 10px;
      }    
   }
+
 
  
